@@ -73,3 +73,8 @@ a{
 a:hover{
   color: yellow;
 }
+
+p{
+  text-align: justify;
+  text-indent: 20px;
+}
